@@ -1,0 +1,17 @@
+
+/* EQUIPO */
+	
+	Front-End: La Frossia Francisco
+	Email: lafrossiafrancisco [at] gmail.com
+	Ubicación: Capital Federal, Argentina
+
+	Back-end: Andrés Damesón
+	Email: andresdameson [at] gmail.com
+	Ubicación: Capital Federal, Argentina.
+
+
+/* SITIO */
+
+	Estándares: HTML5, CSS3
+	Componentes: jQuery
+	Software: H5BP, Twitter Boostrap, CodeIgniter
